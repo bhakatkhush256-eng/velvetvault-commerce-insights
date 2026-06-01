@@ -17,7 +17,7 @@
 
 
 ### Order Status Distribution
-![Order Status](charts/chart4_order_status.png)
+![image alt](https://github.com/bhakatkhush256-eng/velvetvault-commerce-insights/blob/d11b02837710aaa046737275efc90fd7b44a827e/chart4_order_status.png)
 
 ---
 
