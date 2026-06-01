@@ -13,7 +13,8 @@
 ![image alt](https://github.com/bhakatkhush256-eng/velvetvault-commerce-insights/blob/0f82ca933d7c779b105af09813acefcc8119ecbc/chart2_top_customers.png)
 
 ### Monthly Revenue vs Profit Trend
-![Monthly Trend](charts/chart3_monthly_trend.png)
+![image alt](https://github.com/bhakatkhush256-eng/velvetvault-commerce-insights/blob/e372d50cb4748282880246cd3d3e195971bf9501/chart3_monthly_trend.png)
+
 
 ### Order Status Distribution
 ![Order Status](charts/chart4_order_status.png)
