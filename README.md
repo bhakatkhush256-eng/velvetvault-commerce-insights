@@ -10,7 +10,7 @@
 ![image alt](https://github.com/bhakatkhush256-eng/velvetvault-commerce-insights/blob/fb7178dac73062ab1b0a009140c4fc1270b7d5f9/chart1_revenue_by_category.png)
 
 ### Top 5 Customers by Total Spend
-![Top Customers](charts/chart2_top_customers.png)
+![image alt](https://github.com/bhakatkhush256-eng/velvetvault-commerce-insights/blob/0f82ca933d7c779b105af09813acefcc8119ecbc/chart2_top_customers.png)
 
 ### Monthly Revenue vs Profit Trend
 ![Monthly Trend](charts/chart3_monthly_trend.png)
